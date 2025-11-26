@@ -1,0 +1,400 @@
+Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?
+A. TextView
+B. Button
+C. Service
+D. ImageView
+ANSWER: C
+
+Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+ANSWER: B
+
+Intent trong Android được sử dụng để làm gì?
+A. Hiển thị thông báo cho người dùng.
+B. Lưu trữ dữ liệu.
+C. Khởi chạy Activity.
+D. Xử lý sự kiện chạm.
+ANSWER: C
+
+Vòng đời của một Activity bắt đầu bằng phương thức nào?
+A. onStart()
+B. onResume()
+C. onCreate()
+D. onPause()
+ANSWER: C
+
+Để xử lý sự kiện click chuột cho một Button, bạn cần sử dụng phương thức nào?
+A. onClick()
+B. onTouch()
+C. onLongClick()
+D. onFocusChange()
+ANSWER: A
+
+Kiểu dữ liệu nào sau đây được sử dụng để lưu trữ giá trị đúng hoặc sai?
+A. int
+B. float
+C. String
+D. boolean
+ANSWER: D
+
+SharedPreferences trong Android được sử dụng để làm gì?
+A. Lưu trữ dữ liệu có cấu trúc.
+B. Truy cập cơ sở dữ liệu SQLite.
+C. Lưu trữ dữ liệu dạng key-value.
+D. Gửi dữ liệu qua mạng.
+ANSWER: C
+
+Toast trong Android được sử dụng để làm gì?
+A. Hiển thị một hộp thoại.
+B. Hiển thị một thông báo ngắn gọn cho người dùng.
+C. Phát nhạc.
+D. Chụp ảnh màn hình.
+ANSWER: B
+
+Để tạo một ứng dụng Android, bạn cần sử dụng ngôn ngữ lập trình nào?
+A. C++
+B. Python
+C. Java
+D. Kotlin
+ANSWER: C, D
+
+Adapter trong Android được sử dụng để làm gì?
+A. Kết nối dữ liệu với ListView hoặc RecyclerView.
+B. Tạo hiệu ứng động.
+C. Xử lý sự kiện cảm ứng.
+D. Lưu trữ dữ liệu.
+ANSWER: A
+
+Fragment trong Android là gì?
+A. Một Activity con.
+B. Một thành phần UI có thể tái sử dụng.
+C. Một dịch vụ chạy nền.
+D. Một kiểu dữ liệu.
+ANSWER: B
+
+RecyclerView là gì?
+A. Một thành phần UI để hiển thị danh sách.
+B. Một layout để sắp xếp các thành phần UI.
+C. Một lớp để xử lý sự kiện.
+D. Một kiểu dữ liệu.
+ANSWER: A
+
+Manifest file trong Android được sử dụng để làm gì?
+A. Khai báo các thành phần của ứng dụng.
+B. Lưu trữ dữ liệu.
+C. Xử lý sự kiện.
+D. Tạo giao diện người dùng.
+ANSWER: A
+
+Gradle là gì?
+A. Một công cụ để quản lý dependencies.
+B. Một ngôn ngữ lập trình.
+C. Một IDE để phát triển ứng dụng Android.
+D. Một framework.
+ANSWER: A
+
+AsyncTask được sử dụng để làm gì?
+A. Xử lý các tác vụ chạy nền.
+B. Tạo hiệu ứng động.
+C. Vẽ đồ họa.
+D. Lưu trữ dữ liệu.
+ANSWER: A
+
+ContentProvider được sử dụng để làm gì?
+A. Chia sẻ dữ liệu giữa các ứng dụng.
+B. Tạo giao diện người dùng.
+C. Xử lý sự kiện.
+D. Lưu trữ dữ liệu.
+ANSWER: A
+
+SQLite là gì?
+A. Một hệ quản trị cơ sở dữ liệu.
+B. Một ngôn ngữ lập trình.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+BroadcastReceiver được sử dụng để làm gì?
+A. Nhận các thông báo từ hệ thống.
+B. Gửi dữ liệu qua mạng.
+C. Tạo giao diện người dùng.
+D. Xử lý sự kiện.
+ANSWER: A
+
+Service là gì?
+A. Một thành phần ứng dụng chạy nền.
+B. Một thành phần UI.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Thread là gì?
+A. Một luồng xử lý.
+B. Một thành phần UI.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Activity Lifecycle là gì?
+A. Quá trình tạo, khởi động, tạm dừng và hủy một Activity.
+B. Vòng đời của một ứng dụng Android.
+C. Quá trình tải dữ liệu từ mạng.
+D. Quá trình lưu trữ dữ liệu.
+ANSWER: A
+
+Layout inflater được sử dụng để làm gì?
+A. Tạo các đối tượng View từ file XML.
+B. Sắp xếp các thành phần UI.
+C. Xử lý sự kiện.
+D. Lưu trữ dữ liệu.
+ANSWER: A
+
+Drawable là gì?
+A. Một tài nguyên đồ họa.
+B. Một thành phần UI.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+dp là gì?
+A. Đơn vị đo lường độc lập với mật độ điểm ảnh.
+B. Đơn vị đo lường phụ thuộc vào mật độ điểm ảnh.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Để định nghĩa một màu sắc trong Android, bạn sử dụng kiểu dữ liệu nào?
+A. Integer
+B. String
+C. Color
+D. Hexadecimal
+ANSWER: C, D
+
+ViewGroup là gì?
+A. Một lớp cơ sở cho tất cả các layout.
+B. Một thành phần UI để hiển thị hình ảnh.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Thuộc tính android:layout_width="match_parent" có ý nghĩa gì?
+A. Thành phần UI sẽ có chiều rộng bằng với chiều rộng của thiết bị.
+B. Thành phần UI sẽ có chiều rộng bằng với chiều rộng của thành phần cha.
+C. Thành phần UI sẽ có chiều rộng cố định là 100dp.
+D. Thành phần UI sẽ tự động điều chỉnh chiều rộng.
+ANSWER: B
+
+Thuộc tính android:gravity được sử dụng để làm gì?
+A. Căn chỉnh nội dung của một thành phần UI.
+B. Thay đổi vị trí của một thành phần UI.
+C. Thay đổi kích thước của một thành phần UI.
+D. Thay đổi màu sắc của một thành phần UI.
+ANSWER: A
+
+AndroidManifest.xml nằm ở đâu trong project Android?
+A. Thư mục /res
+B. Thư mục /src
+C. Thư mục gốc của project
+D. Thư mục /assets
+ANSWER: C
+
+Để chạy một ứng dụng Android trên thiết bị thật, bạn cần làm gì?
+A. Kết nối thiết bị với máy tính và bật chế độ USB debugging.
+B. Cài đặt Android Studio trên thiết bị.
+C. Chạy lệnh adb install trên máy tính.
+D. Cả A và C.
+ANSWER: A
+
+dp và sp khác nhau như thế nào?
+A. dp là đơn vị đo lường độc lập với mật độ điểm ảnh, sp là đơn vị đo lường phụ thuộc vào mật độ điểm ảnh.
+B. dp được sử dụng cho kích thước font chữ, sp được sử dụng cho kích thước các thành phần UI khác.
+C. dp là đơn vị đo lường phụ thuộc vào mật độ điểm ảnh, sp là đơn vị đo lường độc lập với mật độ điểm ảnh.
+D. dp và sp giống nhau.
+ANSWER: A
+
+AlertDialog được sử dụng để làm gì?
+A. Hiển thị một hộp thoại cho người dùng.
+B. Hiển thị một thông báo ngắn gọn cho người dùng.
+C. Phát nhạc.
+D. Chụp ảnh màn hình.
+ANSWER: A
+
+Intent Filter được sử dụng để làm gì?
+A. Lọc các Intent.
+B. Khai báo các Activity có thể xử lý một Intent.
+C. Khởi chạy một Activity.
+D. Lưu trữ dữ liệu.
+ANSWER: B
+
+Serializable là gì?
+A. Một interface để lưu trữ đối tượng vào bộ nhớ.
+B. Một lớp để lưu trữ dữ liệu.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Sự khác nhau giữa ListView và RecyclerView là gì?
+A. RecyclerView hiệu quả hơn ListView khi xử lý danh sách lớn.
+B. RecyclerView hỗ trợ ViewHolder pattern.
+C. RecyclerView linh hoạt hơn ListView trong việc tùy chỉnh layout.
+D. Cả A, B và C.
+ANSWER: D
+
+ViewHolder pattern được sử dụng để làm gì?
+A. Tối ưu hóa hiệu năng của ListView và RecyclerView.
+B. Lưu trữ dữ liệu.
+C. Xử lý sự kiện.
+D. Tạo giao diện người dùng.
+ANSWER: A
+
+Data Binding là gì?
+A. Một kỹ thuật để kết nối dữ liệu với giao diện người dùng.
+B. Một cách để lưu trữ dữ liệu.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+MVVM là gì?
+A. Một kiến trúc phần mềm.
+B. Một ngôn ngữ lập trình.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Retrofit là gì?
+A. Một thư viện để thực hiện các request HTTP.
+B. Một hệ quản trị cơ sở dữ liệu.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Gson là gì?
+A. Một thư viện để chuyển đổi giữa JSON và Java object.
+B. Một hệ quản trị cơ sở dữ liệu.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Picasso là gì?
+A. Một thư viện để tải và hiển thị hình ảnh.
+B. Một hệ quản trị cơ sở dữ liệu.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Firebase là gì?
+A. Một nền tảng di động của Google.
+B. Một hệ quản trị cơ sở dữ liệu.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+ConstraintLayout là gì?
+A. Một layout linh hoạt để sắp xếp các thành phần UI.
+B. Một thành phần UI để hiển thị danh sách.
+C. Một lớp để xử lý sự kiện.
+D. Một kiểu dữ liệu.
+ANSWER: A
+
+DataBinding giúp giảm thiểu việc viết code ở đâu?
+A. Trong file XML.
+B. Trong file Java/Kotlin.
+C. Trong file Gradle.
+D. Trong file Manifest.
+ANSWER: B
+
+ViewModel trong kiến trúc MVVM có nhiệm vụ gì?
+A. Lưu trữ và quản lý dữ liệu cho UI.
+B. Hiển thị giao diện người dùng.
+C. Xử lý sự kiện người dùng.
+D. Tương tác với cơ sở dữ liệu.
+ANSWER: A
+
+LiveData là gì?
+A. Một lớp để giữ và quan sát dữ liệu.
+B. Một thành phần UI.
+C. Một kiểu dữ liệu.
+D. Một lớp để xử lý sự kiện.
+ANSWER: A
+
+Room là gì?
+A. Một thư viện để làm việc với cơ sở dữ liệu SQLite.
+B. Một hệ quản trị cơ sở dữ liệu.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Jetpack Compose là gì?
+A. Một toolkit để xây dựng giao diện người dùng theo hướng khai báo.
+B. Một ngôn ngữ lập trình.
+C. Một framework.
+D. Một IDE.
+ANSWER: A
+
+Những thành phần nào sau đây có thể được sử dụng để hiển thị danh sách trong Android? (Chọn 2 đáp án)
+A. TextView
+B. ListView
+C. ImageView
+D. RecyclerView
+ANSWER: B, D
+
+Những phát biểu nào sau đây đúng về Intent? (Chọn 2 đáp án)
+A. Intent có thể được sử dụng để truyền dữ liệu giữa các Activity.
+B. Intent chỉ có thể được sử dụng để khởi chạy Activity.
+C. Intent có thể được sử dụng để khởi chạy Service.
+D. Intent không thể chứa dữ liệu.
+ANSWER: A, C
+
+Những phương thức nào sau đây thuộc vòng đời của một Activity? (Chọn 3 đáp án)
+A. onCreate()
+B. onClick()
+C. onStart()
+D. onResume()
+E. onDestroy()
+ANSWER: A, C, D, E
+
+Những thư viện nào sau đây thường được sử dụng trong lập trình Android? (Chọn 3 đáp án)
+A. Retrofit
+B. Gson
+C. Picasso
+D. jQuery
+
+ANSWER: A, B, C
+
+Những lợi ích nào khi sử dụng ConstraintLayout? (Chọn 2 đáp án)
+A. Giúp giảm thiểu việc lồng ghép layout.
+B. Cải thiện hiệu năng của ứng dụng.
+C. Dễ dàng tạo hiệu ứng động.
+D. Giúp code dễ đọc hơn.
+ANSWER: A, B
+
+Những thành phần nào sau đây thuộc kiến trúc MVVM? (Chọn 3 đáp án)
+A. Model
+B. View
+C. Controller
+D. ViewModel
+ANSWER: A, B, D
+
+Những công cụ nào sau đây có thể được sử dụng để debug ứng dụng Android? (Chọn 2 đáp án)
+A. Android Studio Debugger
+B. Logcat
+C. ADB
+D. Git
+ANSWER: A, B, C
+
+Những kỹ thuật nào sau đây giúp tối ưu hóa hiệu năng ứng dụng Android? (Chọn 3 đáp án)
+A. Sử dụng ViewHolder pattern.
+B. Sử dụng AsyncTask cho các tác vụ chạy nền.
+C. Giảm thiểu việc sử dụng bộ nhớ.
+D. Tối ưu hóa hình ảnh.
+ANSWER: A, B, C, D
+
+Những khái niệm nào sau đây liên quan đến việc lưu trữ dữ liệu trong Android? (Chọn 3 đáp án)
+A. SharedPreferences
+B. SQLite
+C. ContentProvider
+D. Intent
+ANSWER: A, B, C
